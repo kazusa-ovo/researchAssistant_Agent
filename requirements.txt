@@ -1,0 +1,11 @@
+# Research_Assistant 依赖
+langchain>=1.2.15
+langchain-openai
+langchain-community
+langgraph
+langgraph-checkpoint-sqlite
+tenacity
+chromadb
+python-dotenv
+pymysql
+requests
